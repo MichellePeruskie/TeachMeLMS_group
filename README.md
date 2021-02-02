@@ -7,7 +7,7 @@ A full-stack learning management system built with a Python framework integratin
 
 ●	My part was half of the front-end framework development. I did the styling for the site:  CSS, integrated Bootstrap, HTML, and some JavaScript. I also worked to connect the front end to the backend on the homepage and profile page. 
 
-### Video Walkthrough
+## Video Walkthrough
 https://youtu.be/sUFq2sUTkzk
 
-## Project Screenshots
+
